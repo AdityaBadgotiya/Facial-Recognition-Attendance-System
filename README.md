@@ -21,8 +21,10 @@ This is a Python-based **Face Recognition Attendance System** that provides auto
 
 The system helps educational institutions automate attendance tracking while preventing proxy attendance through facial verification. It provides both admin controls for management and student views for checking personal attendance records.
 
-## Contributor's: 
-
-- Aditya Badgotiya
-- Ayush Trivedi
-- Sanskar Upadhyay
+<h2>Collaboration</h2>
+<h3>Team Members</h3>
+<ul>
+    <li><a href="https://github.com/AdityaBadgotiya">Aditya Badgotiya</a></li>
+    <li><a href="https://github.com/trivediayush">Ayush Trivedi</a></li>
+    <li><a href="https://github.com/Sanskar-upadhyay">Sanskar Upadhyay</a></li>
+</ul>
